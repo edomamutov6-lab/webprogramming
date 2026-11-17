@@ -1,0 +1,9 @@
+{
+  "name": "javascript-basics-problem-set",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Week 5 JavaScript Basics problem set solutions",
+  "scripts": {
+    "start": "node src/solutions.js"
+  }
+}
